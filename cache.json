@@ -1,0 +1,11 @@
+{
+  "types": {
+    "expires": 1
+  },
+  "regions": {
+    "expires": 1
+  },
+  "orders": {
+    "expires": 1
+  }
+}
